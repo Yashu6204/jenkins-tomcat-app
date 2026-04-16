@@ -1,13 +1,3 @@
 <web-app xmlns="https://jakarta.ee/xml/ns/jakartaee"
          version="5.0">
-
-    <servlet>
-    <servlet-name>StudentServlet</servlet-name>
-    <servlet-class>com.app.StudentServlet</servlet-class>
-</servlet>
-
-<servlet-mapping>
-    <servlet-name>StudentServlet</servlet-name>
-    <url-pattern>/StudentServlet</url-pattern>
-</servlet-mapping>
 </web-app>
