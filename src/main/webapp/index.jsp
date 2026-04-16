@@ -2,7 +2,7 @@
 <body>
 <h1>Student Management System</h1>
 
-<form action="students" method="post">
+<form action="StudentServlet" method="post">
     Name: <input type="text" name="name"/>
     <input type="submit" value="Add Student"/>
 </form>
