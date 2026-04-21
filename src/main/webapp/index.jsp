@@ -7,7 +7,7 @@
 <body>
 
 <div class="container">
-    <h1>Hello, I'm Yasaswi 👋</h1>
+    <h1>Hello, I'm Ramya Sree 👋</h1>
     <p>Java Developer | DevOps Learner</p>
 
     <div class="card">
@@ -26,7 +26,7 @@
 
     <div class="card">
         <h2>Contact</h2>
-        <p>Email: yasaswi@email.com</p>
+        <p>Email: ramyasree@email.com</p>
     </div>
 </div>
 
